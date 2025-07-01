@@ -2,4 +2,5 @@ first
 second
 3rd
 
-verse+
+chorus 2
+chorus
