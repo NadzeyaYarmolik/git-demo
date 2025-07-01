@@ -3,3 +3,4 @@ second
 3rd
 
 chorus 2
+chorus
